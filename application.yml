@@ -26,3 +26,9 @@ spring:
        uri: http://localhost:3344
        label: master
        profile: dev
+       
+data:
+    env: aaaaaa
+    user:
+        userName: zhangsan
+        userId: 1001
